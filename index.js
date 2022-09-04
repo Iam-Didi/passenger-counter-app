@@ -25,7 +25,7 @@ let greeting = "Welcome To The Train Station"
 
 welcomeEl.innerText = Name + greeting 
 
-welcomeEl.innerText = welcomeEl.innerText + "👋"
+// welcomeEl.innerText += "👋"
 
 
 
